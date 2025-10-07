@@ -30,7 +30,7 @@
   transition: all 0.3s ease;
 }
 
-/* Green button for Place Order */
+
 .place-order-btn {
   background-color: #28a745;
   color: white;
@@ -40,7 +40,7 @@
   background-color: #218838;
 }
 
-/* Red button for Clear Orders */
+
 .clear-order-btn {
   background-color: #dc3545;
   color: white;
@@ -50,7 +50,7 @@
   background-color: #c82333;
 }
 
-/* Orders list */
+
 .orders-list {
   display: flex;
   flex-direction: column;
