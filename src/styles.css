@@ -1,4 +1,3 @@
-/* Simple responsive CSS */
 :root{ --maxw:1100px; --accent:#1f7aec; --muted:#666; }
 *{box-sizing:border-box}
 body{font-family:Inter,system-ui,Arial,sans-serif;margin:0;color:#111;background:#f7f7fb}
