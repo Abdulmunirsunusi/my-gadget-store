@@ -22,7 +22,7 @@ body{font-family:Inter,system-ui,Arial,sans-serif;margin:0;color:#111;background
 .burger .bar{display:block;width:22px;height:2px;background:#333;margin:4px 0;border-radius:2px}
 .footer{background:#fff;padding:16px;text-align:center;border-top:1px solid #eee;margin-top:32px}
 
-/* grid */
+
 .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
 .card{background:#fff;padding:12px;border-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,.04)}
 .thumb{
@@ -55,11 +55,11 @@ body{font-family:Inter,system-ui,Arial,sans-serif;margin:0;color:#111;background
 .order-preview{background:#fff;padding:12px;border-radius:8px;margin-bottom:12px}
 .form input{width:100%;padding:8px;margin:6px 0;border:1px solid #ddd;border-radius:6px}
 
-/* orders */
+
 .order-card{background:#fff;padding:12px;border-radius:8px;margin-bottom:12px;box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;}
 .order-head{display:flex;justify-content:space-between;gap:12px}
 
-/* small screens */
+
 @media(max-width:900px){
   .grid{grid-template-columns:repeat(2,1fr)}
   .thumb.large{width:148px;height:220px}
